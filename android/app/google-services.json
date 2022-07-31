@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1092539574268",
+    "project_id": "linlan-doc",
+    "storage_bucket": "linlan-doc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092539574268:android:c656a2854112e50c3b3479",
+        "android_client_info": {
+          "package_name": "com.example.led_handwriting_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092539574268-mu3mvsgebt06jpn07skva0lindrkm061.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHL8PbOybxT_I4lV_zcFT7FjCWILnJXSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092539574268-mu3mvsgebt06jpn07skva0lindrkm061.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092539574268-1dt9ig05ptv4nf0gvp0kg3ufpc1rprq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ledHandwritingBoard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

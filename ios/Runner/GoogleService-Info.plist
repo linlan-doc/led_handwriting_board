@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1092539574268-1dt9ig05ptv4nf0gvp0kg3ufpc1rprq9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1092539574268-1dt9ig05ptv4nf0gvp0kg3ufpc1rprq9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb9gCk1VMVykjN8cy5PZhgCO5a4Df7uuw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1092539574268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ledHandwritingBoard</string>
+	<key>PROJECT_ID</key>
+	<string>linlan-doc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>linlan-doc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1092539574268:ios:1f6274dd9e978c843b3479</string>
+</dict>
+</plist>
